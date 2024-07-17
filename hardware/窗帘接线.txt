@@ -1,0 +1,5 @@
+超声波：echo-D3 Trig-D4
+Oled :SCl-D1 SDA-D2
+电机驱动1A-D5 1B-D6
+DS18b20 DQ-D7
+光敏 A0-Ao
